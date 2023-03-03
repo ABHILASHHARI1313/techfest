@@ -53,7 +53,7 @@ body{
 }
 form .row input:focus{
   border-color: #ffff00;
-  box-shadow: inset 0px 0px 2px 2px #ffff00;
+  box-shadow: inset 0px 0px 1px 1px #ffff00;
 }
 form .row input::placeholder{
   color:#999;
