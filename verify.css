@@ -86,6 +86,7 @@ form .row input::placeholder{
   border: 1px solid #ffff00;
   cursor: pointer;
   display: flex;
+  align-content: center;
 }
 form .button input:hover{
   background: #ffcc00;
