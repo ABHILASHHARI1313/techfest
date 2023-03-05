@@ -39,7 +39,7 @@ body{
 }
 .wrapper form .row{
   height: 45px;
-  margin-bottom: 35px;
+  margin-bottom: 15px;
   position: relative;
 }
 .wrapper form .row input{
@@ -60,6 +60,7 @@ form .row input::placeholder{
   color:#999;
 }
 .wrapper form .row i{
+
   position: absolute;
   width: 47px;
   height: 100%;
@@ -72,11 +73,7 @@ form .row input::placeholder{
   align-items: center;
   justify-content: center;
 }
-.wrapper form .pass a{
-  color: #ffff00;
-  font-size: 17px;
-  text-decoration: none;
-}
+
 .wrapper form .button input{
   color: black;
   font-size: 20px;
@@ -85,9 +82,6 @@ form .row input::placeholder{
   background: #ffff00;
   border: 1px solid #ffff00;
   cursor: pointer;
-  display: flex;
-  align-content: center;
-  text-align: center;
 }
 form .button input:hover{
   background: #ffcc00;
